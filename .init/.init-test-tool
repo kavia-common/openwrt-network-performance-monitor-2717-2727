@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/openwrt-network-performance-monitor-2717-2727/openwrt_speed_latency_test_backend"
+}
